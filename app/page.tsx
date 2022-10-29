@@ -4,44 +4,44 @@ export default function Home() {
   return (
     <div>
       <Image
-        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(1).png?alt=media&token=8963b61f-bf65-4c95-b5ef-f9be13584397"
+        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fbilly-huynh-W8KTS-mhFUE-unsplash.jpg?alt=media&token=c754dcd9-5bb6-422b-bba2-35b40f1b047f"
         alt="Vercel Logo"
         blurDataURL={
-          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(1).png?alt=media&token=8963b61f-bf65-4c95-b5ef-f9be13584397"
+          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fbilly-huynh-W8KTS-mhFUE-unsplash.jpg?alt=media&token=c754dcd9-5bb6-422b-bba2-35b40f1b047f"
         }
         placeholder="blur"
-        width={230}
-        height={100}
+        width={420}
+        height={220}
       />
       <Image
-        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(2).png?alt=media&token=23fa4b19-2144-4171-9b8a-dc696ccf2327"
+        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fmilad-fakurian-nY14Fs8pxT8-unsplash.jpg?alt=media&token=88ac6424-3b03-4da2-8099-2768d11cce35"
         alt="Vercel Logo"
         blurDataURL={
-          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(2).png?alt=media&token=23fa4b19-2144-4171-9b8a-dc696ccf2327"
+          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fmilad-fakurian-nY14Fs8pxT8-unsplash.jpg?alt=media&token=88ac6424-3b03-4da2-8099-2768d11cce35"
         }
         placeholder="blur"
-        width={230}
-        height={100}
+        width={420}
+        height={220}
       />
       <Image
-        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(3).png?alt=media&token=96fdfc5b-9ae0-4800-a890-ec8e0ef241d7"
+        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fpawel-czerwinski-vI5XwPbGvmY-unsplash.jpg?alt=media&token=bc94569f-c146-44d3-9e95-4334783e77c1"
         alt="Vercel Logo"
         blurDataURL={
-          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(3).png?alt=media&token=96fdfc5b-9ae0-4800-a890-ec8e0ef241d7"
+          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fpawel-czerwinski-vI5XwPbGvmY-unsplash.jpg?alt=media&token=bc94569f-c146-44d3-9e95-4334783e77c1"
         }
         placeholder="blur"
-        width={230}
-        height={100}
+        width={420}
+        height={220}
       />
       <Image
-        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(4).png?alt=media&token=9e5e97cd-d2eb-4aa4-8f4e-91027014b904"
+        src="https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fpawel-czerwinski-prMn9KINLtI-unsplash.jpg?alt=media&token=e437b711-3518-4fbe-a6de-ab6950908277"
         alt="Vercel Logo"
         blurDataURL={
-          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/j-images%2Fbanner%20(4).png?alt=media&token=9e5e97cd-d2eb-4aa4-8f4e-91027014b904"
+          "https://firebasestorage.googleapis.com/v0/b/replay-chat-dd920.appspot.com/o/next-images%2Fpawel-czerwinski-prMn9KINLtI-unsplash.jpg?alt=media&token=e437b711-3518-4fbe-a6de-ab6950908277"
         }
         placeholder="blur"
-        width={230}
-        height={100}
+        width={420}
+        height={220}
       />
     </div>
   );
